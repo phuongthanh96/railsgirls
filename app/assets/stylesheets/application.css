@@ -37,6 +37,10 @@ th { border-bottom: 1px solid #DDD; }
 
 footer {
   background-color: #f47983;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
   padding: 10px 0;
 }
 
