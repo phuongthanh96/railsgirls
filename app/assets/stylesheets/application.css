@@ -17,6 +17,7 @@ body {
     padding-top: 100px; 
     /*background-image: url('https://secure.gravatar.com/bg/128013791/eb1762abcc95f91991dcca82fc347515');*/
     background-image: url('http://wallpapers-library.com/images/blue-wallpaper-background/blue-wallpaper-background-10.jpg');
+    background-attachment: fixed;
 }
 footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
